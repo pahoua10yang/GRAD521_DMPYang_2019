@@ -5,6 +5,4 @@ Context:
 
 3. In this experiment, data will be collected by noting mortality (Alive or Dead) of the CPB (after treatment is applied) on Excel.  
 
-4. There are eight treatments ranging from 0 ppm to 1000 ppm. Once treatments are applied to the pest, data will be collected by observing every 1st, 3rd, 7th, and 24th hours after application (with four insecticides). 
-
-5. There will be at least four different excel files (four insecticides) and three sheets (populations) within each file.
+4. There will be at least four different excel files (four insecticides) and three sheets (populations) within each file.
