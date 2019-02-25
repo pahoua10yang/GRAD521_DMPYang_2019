@@ -2,8 +2,7 @@
 1. The objective of my study is to gather baseline information about the Colorado potato beetle (CPB) in the Pacific Northwest (PNW). The CPB is a potato defoliating pest that only feeds on Solanaceae crops. So far, the only effective control is chemical application. There have been many documented evidences of resistance in the eastern part of the U.S. since there is no other control option. The purpose of my project focus on testing several insecticides, widely used in the western states to control against this pest to determine the LD50.   
 2. The results (data) will indicate if the populations in the Northwest is susceptible to chemical compounds or not. This will give us an idea or baseline information of where the CPB populations in the PNW stands. 
 3. In this experiment, data will be collected by noting mortality (Alive or Dead) of the CPB (after treatment is applied) on Excel.  
-4. There are eight treatments ranging from 0 ppm to 1000 ppm. Once treatments are applied to the pest, data will be collected by observing every 1st, 3rd, 7th, and 24th hours after application (with four insecticides). 
-5. There will be at least four different excel files (four insecticides) and three sheets (populations) within each file.
+
 
 # Roles and responsibilities
 1. Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed. You can use the general roles that we worked with during the class, but be specific to your project (roles worked during the class are archiving and preservation; data manager; protection of sensitive and protected data; instrumentation maintenance; data collection/data generation; data organization; metadata generation; quality control; data analysis; DMP implementation; access control; software creation and maintenance). If roles are not self explanatory provide a definition. Is there any formal definition of these roles in your research project? Who is going to take in each of these roles in your project? No need to give me the actual names of people, you can say "PI" or "Grad student 2". You may need to talk to your advisor and discuss the roles and responsibilities of the researchers that participate in the project to complete this part of the assignment. 
@@ -15,10 +14,18 @@ My research is funded externally by the USDA NIFA program. The USDA-NIFA have a 
 
 
 # Data standards and metadata
+Supervisor: OSU faculty 
+Title: Understanding the CPB in the Columbia Basin
+Author: Silvia Rondon and Pahoua Yang
+Subject: Science
+Publication date: 2019
 
 # Storage and security
-
+1. Data context will be storage in mutliple storage site such as box or drop box and USB flask drive as well as computer storage . Data will be also sent to supervisor/PI's email. 
+2. Box is through Oregon State University which is a secure site but only given to current student and limited time for you to grab your context once you are no longer a student. Drop box only allow certain amount stored before they start charging. 
+3. By storing data on a flask drive will also prevent using space from a storage site such as box and without worrying about being deleted. 
 # Access and data sharing
+
 
 # Archiving and preservation
 
