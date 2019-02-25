@@ -14,11 +14,11 @@ My research is funded externally by the USDA NIFA program. The USDA-NIFA have a 
 
 
 # Data standards and metadata
-Supervisor: OSU faculty 
-Title: Understanding the CPB in the Columbia Basin
-Author: Silvia Rondon and Pahoua Yang
-Subject: Science
-Publication date: 2019
+1. Supervisor: OSU faculty 
+2. Title: Understanding the CPB in the Columbia Basin
+3. Author: Silvia Rondon and Pahoua Yang
+4. Subject: Science
+5. Publication date: 2019
 
 # Storage and security
 1. Data context will be storage in mutliple storage site such as box or drop box and USB flask drive as well as computer storage . Data will be also sent to supervisor/PI's email. 
