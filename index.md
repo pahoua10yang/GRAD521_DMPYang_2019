@@ -27,7 +27,7 @@ Metadata will be capture through Excel and a text file.
 
 Photograph - of Insects
 Under a file name: SummerProject2019 (for that year)
-Picture label name 
+Picture label name will be labeled as insectname$date(MMDDYY)
 
 # Storage and security
 1. Data context will be storage in mutliple storage site such as box and drop box as well as computer storage . Data will be also sent to supervisor/PI's email. 
