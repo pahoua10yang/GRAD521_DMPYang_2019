@@ -20,13 +20,27 @@
 4. Subject: Science
 5. Publication date: 2019
 
-# Storage and security
-1. Data context will be storage in mutliple storage site such as box or drop box and USB flask drive as well as computer storage . Data will be also sent to supervisor/PI's email. 
-2. Box is through Oregon State University which is a secure site but only given to current student and limited time for you to grab your context once you are no longer a student. Drop box only allow certain amount stored before they start charging. 
-3. By storing data on a flask drive will also prevent using space from a storage site such as box and without worrying about being deleted. 
-# Access and data sharing
+Tabular - Data dictionary
+Column Head - Location, Date, Time, Code (0 and 1)
 
+Metadata will be capture through Excel and a text file. 
+
+Photograph - of Insects
+Under a file name: SummerProject2019 (for that year)
+Picture label name 
+
+# Storage and security
+1. Data context will be storage in mutliple storage site such as box and drop box as well as computer storage . Data will be also sent to supervisor/PI's email. 
+2. Dropbox is used for modification and Box is used for storing orginal.
+3. Box is through Oregon State University which is a secure site but only given to current student and limited time for you to grab your context once you are no longer a student. Drop box only allow certain amount stored before they start charging. 
+4. Link to box will be given to PIs, so correction can be made. 
+
+# Access and data sharing
+1. Data will not be publish publicly until project is complete and publish in a journal publication. 
+2. Data will be public after two years of data. 
 
 # Archiving and preservation
+1. Scholar Archive - when thesis is submit
+2. Preservtions will also be in Scholar Archive or a plan with the PIs. 
 
 Repository with source code [here](https://github.com/clarallebot/GRAD521_DMPtemplate)
