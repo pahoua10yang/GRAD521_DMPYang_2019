@@ -38,14 +38,18 @@ Picture label name will be labeled as insectname$date(MMDDYY)
 4. Link to box will be given to PIs, so correction can be made. 
 
 # Access and data sharing
-1. Data will not be publish publicly until project is complete and publish in a journal publication. 
-2. Data will be public after two years of journal publication. 
+1. Data will not be publish publicly until project is complete and have publish in at least one journal publication. 
+2. Plus, data will be public after two years of journal publication (so paper is well estabilished in the science field). 
 3. Data can be access thourgh Scholar Archive (from the University)
 4. If researchers want to reuse of data; email PIs listed above for permission. 
-5. No software is needed besides Excel (in order to read the data)
+5. Graphs, tables and others connecting to the data will not be share publicly due to intellectual property rights. Individual should draw their own conclusions based on their own graphs and tables. 
+6. No policies on derivatives and redistribution of the data yet. 
+7. Policies and guideline will be display whereever data is
 
 # Archiving and preservation
-1. Data will be in Scholar Archive - when thesis is submitted 
+1. Data will be availble in Scholar Archive - when thesis is submitted 
 2. Preservtions will also be in Scholar Archive or a plan with the PIs. 
+3. Data will remain in Scholar Archive until University disregard it. 
+4. It will be in Excel (csv) format
 
 Repository with source code [here](https://github.com/clarallebot/GRAD521_DMPtemplate)
